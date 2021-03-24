@@ -1,0 +1,7 @@
+RENCANA APLIKASI SAYA
+-To Do List
+ *Belajar menggunakan javascript
+ *membuat aplikasi dengan code yang dinamis
+-Pengelolaan barang
+-Movie API
+-Aplikasi pemesanan restoran online

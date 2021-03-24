@@ -1,9 +1,11 @@
 RENCANA APLIKASI SAYA
 -To Do List
  *Belajar menggunakan javascript
-  ~Angular
-  ~node js
+  ~Vue
+  ~nodejs
+ *membuat aplikasi dengan code yang dinamis
 -Pengelolaan barang
  *menggunakan codeigniter
+ *menggunakan Laravel
 -Movie API
 -Aplikasi pemesanan restoran online

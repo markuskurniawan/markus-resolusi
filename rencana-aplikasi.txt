@@ -3,5 +3,6 @@ RENCANA APLIKASI SAYA
  *Belajar menggunakan javascript
  *membuat aplikasi dengan code yang dinamis
 -Pengelolaan barang
+ *menggunakan codeigniter
 -Movie API
 -Aplikasi pemesanan restoran online

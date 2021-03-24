@@ -6,5 +6,6 @@ RENCANA APLIKASI SAYA
  *membuat aplikasi dengan code yang dinamis
 -Pengelolaan barang
  *menggunakan codeigniter
+ *menggunakan Laravel
 -Movie API
 -Aplikasi pemesanan restoran online

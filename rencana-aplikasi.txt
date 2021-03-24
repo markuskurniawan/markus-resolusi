@@ -1,7 +1,8 @@
 RENCANA APLIKASI SAYA
 -To Do List
  *Belajar menggunakan javascript
- *membuat aplikasi dengan code yang dinamis
+  ~Angular
+  ~node js
 -Pengelolaan barang
  *menggunakan codeigniter
 -Movie API

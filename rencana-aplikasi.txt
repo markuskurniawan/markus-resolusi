@@ -1,0 +1,5 @@
+RENCANA APLIKASI SAYA
+-To Do List
+-Pengelolaan barang
+-Movie API
+-Aplikasi pemesanan restoran online
